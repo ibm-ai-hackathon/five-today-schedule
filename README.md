@@ -62,14 +62,15 @@
 - **Docker & Docker Compose**: 컨테이너화 (frontend, backend, db)
 - **GitHub**: 버전 관리
 
-## 👥 팀 구성
+## 👥 팀 구성 및 기여
 
-| 역할 | 이름 |
-|------|------|
-| Project Manager | 손민주 |
-| Prompt Engineer & Domain Expert | 천지우 |
-| Frontend Developer | 김혜영, 손민주 |
-| Backend Developer & AI Engineer | 김진영, 조하영 |
+| 이름 | 담당 영역 | 주요 기여 |
+|------|-----------|-----------|
+| **손민주** | **Project Manager & Frontend Developer** | 프론트엔드 전체 기능 구현(일정/할 일, 캘린더, 시간표, AI 챗봇, 알림, 설정), UX/UI 디자인, 회의록·일정 관리, 발표자료 제작 |
+| **천지우** | **Prompt Engineer & Domain Expert** | 발표 진행 |
+| **김혜영** | **Frontend Developer** | UX/UI 디자인 |
+| **조하영** | **Backend Developer & AI Engineer** | AI 전체 기능 구현(이미지 분석, AI Assistant 채팅, 자연어 입력 분석), sub-task 생성 기능 구현, 프롬프트 설계 |
+| **김진영** | **Backend Developer & AI Engineer** | DB·API 설계, 일정·할 일 기능 구현 |
 
 ## 🚀 시작하기
 
